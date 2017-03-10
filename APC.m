@@ -37,6 +37,9 @@ y1       = [zeros(hidden,1)];          % Hidden layer outputs
 yhat     = zeros(outputs,1);           % Network output
 % y        = 0;
 
+% 1
+
+
 
 %>>>>>>>>>>>>>>>>>>>>>>>        INITIALIZE VARIABLES        <<<<<<<<<<<<<<<<<<<<<<
 % Determine length of reference filter polynomials
