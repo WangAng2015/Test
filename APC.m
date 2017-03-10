@@ -39,6 +39,7 @@ yhat     = zeros(outputs,1);           % Network output
 
 % 1
 % 2
+% 3
 
 
 %>>>>>>>>>>>>>>>>>>>>>>>        INITIALIZE VARIABLES        <<<<<<<<<<<<<<<<<<<<<<
